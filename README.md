@@ -21,3 +21,13 @@ Agora refaça o exercício acima, porém melhorando seu algoritmo para que execu
 ```js 
 // Resposta aqui
 ```
+
+## 3
+
+Como você calcula essa porcentagem de cabeça?
+
+> 21% de 430
+
+```js 
+// Resposta aqui
+```
