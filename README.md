@@ -13,3 +13,11 @@ Escreva o seu algortimo (o passo a passo da solução) e explique o porquê voc�
 ```js 
 // Resposta aqui
 ```
+
+## 2
+
+Agora refaça o exercício acima, porém melhorando seu algoritmo para que execute menos passos que o anterior:
+
+```js 
+// Resposta aqui
+```
