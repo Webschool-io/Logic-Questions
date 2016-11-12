@@ -7,3 +7,9 @@ Imagine que você trabalha nos bastidores do [X Factor]() e precisa ordenar os c
 ```js
 [2,3,5,6,8,15,14,13,12,9,1,4,7,10,11]
 ```
+
+Escreva o seu algortimo (o passo a passo da solução) e explique o porquê você fez dessa forma:
+
+```js 
+// Resposta aqui
+```
